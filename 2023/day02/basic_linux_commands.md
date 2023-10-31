@@ -11,6 +11,7 @@ Examples:
 
 - ```ls -i ``` --> list the files and directories with index numbers inodes
 - ``` ls -d */``` --> list only directories.(we can also specify a pattern)
+- ``` ls -lrt``` --> list in long format, reverse sorted by modification time
 
 ### Directoy commands
 - ```pwd``` --> print work directory. Gives the present working directory.
